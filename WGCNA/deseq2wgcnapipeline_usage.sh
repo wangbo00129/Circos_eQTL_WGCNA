@@ -1,0 +1,1 @@
+DESeq2WGCNAPipeline.sh 01.inputdata.txt 01.coldata.txt none  DESeq2_1_0.01 DESeq2 F 3 1 0.01 SYMBOL 
